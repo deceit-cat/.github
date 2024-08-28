@@ -1,4 +1,4 @@
-<b> 📜 [대한전자공학회 2023년도 하계종합학술대회](https://conf.theieie.org/2024s/) </b><br>
+<b> 📜 [대한전자공학회 2023년도 하계종합학술대회](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891074) </b><br>
 
 # Teams
 | Name | [이시영](https://github.com/krsy0411) | [김민주](https://github.com/minzzn) | [한민정](https://github.com/zoangrak) | [김세윤](https://github.com/seyun22) | [고재현](https://github.com/kozae00) | [양동원](https://github.com/ywon00) |
